@@ -4,5 +4,9 @@
 plz see pdf ppt in code.
 https://github.com/QueenieCplusplus/AI_Watson/blob/master/IBM_ChatBot_API.pdf
 
+Project
+
+app.js https://github.com/QueenieCplusplus/AI_Watson/blob/master/app.js
+package.json 
 
 
