@@ -12,4 +12,6 @@ package.json https://github.com/QueenieCplusplus/AI_Watson/blob/master/package.j
 
 routes/index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes
 
+views/ https://github.com/QueenieCplusplus/AI_Watson/tree/master/views
+
 
