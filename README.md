@@ -14,7 +14,7 @@ https://github.com/QueenieCplusplus/AI_Watson/blob/master/IBM_ChatBot_API.pdf
 
 -routes/
 
-   -* index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes (重點)
+   *index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes (重點)
 
 -views/ https://github.com/QueenieCplusplus/AI_Watson/tree/master/views (略)
 
