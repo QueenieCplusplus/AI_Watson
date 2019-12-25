@@ -6,12 +6,12 @@ https://github.com/QueenieCplusplus/AI_Watson/blob/master/IBM_ChatBot_API.pdf
 
 Project Structure
 
-app.js https://github.com/QueenieCplusplus/AI_Watson/blob/master/app.js
+app.js https://github.com/QueenieCplusplus/AI_Watson/blob/master/app.js (略)
 
-package.json https://github.com/QueenieCplusplus/AI_Watson/blob/master/package.json
+package.json https://github.com/QueenieCplusplus/AI_Watson/blob/master/package.json (僅需注入相關套件)
 
-routes/index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes
+* routes/index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes (重點)
 
-views/ https://github.com/QueenieCplusplus/AI_Watson/tree/master/views
+views/ https://github.com/QueenieCplusplus/AI_Watson/tree/master/views (略)
 
 
