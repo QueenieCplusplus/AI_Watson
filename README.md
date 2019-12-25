@@ -7,6 +7,6 @@ https://github.com/QueenieCplusplus/AI_Watson/blob/master/IBM_ChatBot_API.pdf
 Project
 
 app.js https://github.com/QueenieCplusplus/AI_Watson/blob/master/app.js
-package.json 
+package.json https://github.com/QueenieCplusplus/AI_Watson/blob/master/package.json
 
 
