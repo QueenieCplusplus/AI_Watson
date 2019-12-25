@@ -12,9 +12,9 @@ https://github.com/QueenieCplusplus/AI_Watson/blob/master/IBM_ChatBot_API.pdf
 
 -package.json https://github.com/QueenieCplusplus/AI_Watson/blob/master/package.json (僅需注入相關套件)
 
-- * routes/
+-routes/
 
-     index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes (重點)
+- *     index.js https://github.com/QueenieCplusplus/AI_Watson/tree/master/routes (重點)
 
 -views/ https://github.com/QueenieCplusplus/AI_Watson/tree/master/views (略)
 
