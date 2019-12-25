@@ -8,7 +8,7 @@ const { IamAuthenticator } = require('ibm-watson/auth');
 const assistant = new AssistantV1({
   version: '2018-02-28',
   authenticator: new IamAuthenticator({
-    apikey: 'O09sRuMo8l5EQdHiCopca4VsX2RsYDlvuMs7Pwo4FvTu', // change
+    apikey: '   ', // change
   }),
   url: 'https://gateway.watsonplatform.net/assistant/api', // change
 });
@@ -17,7 +17,7 @@ const assistant = new AssistantV1({
 //local test
 
 assistant.message({
- workspaceId: 'dfd7c89b-8acd-46cc-8546-fb956eba1d1b', // change
+ workspaceId: '   ', // change
  input: {'text': 'Hello'}
  })
  .then(res => {
@@ -60,7 +60,7 @@ router.post('/fbbot', function(req, res, next) {
 
 function askAssistant(words){
 	return assistant.message({
-		workspaceId: '928918b1-c347-48d2-9e75-0a628810f1ea',
+		workspaceId: '  ',
 		input: {'text': words}
 		})
 		.then(res => {
